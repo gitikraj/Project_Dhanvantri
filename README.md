@@ -5,7 +5,8 @@ Dhanvantri is a cutting-edge health card system designed to revolutionize health
 ![Picture3](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/8d43435b-8742-4fc1-a86f-7cefc6e3f110)
 
 ![Picture6](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/3aa9ee2a-c809-4daf-82cd-fe68a08a16e5)
-![Picture7](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/44d4f6dc-743f-4d96-9fe7-43f93c377086)
 ![Picture1](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/5e861854-0384-41c1-8b15-1343ac972275)
+![Picture7](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/44d4f6dc-743f-4d96-9fe7-43f93c377086)
+
 ![Picture5](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/c6ecd7f9-bcc4-49a0-94d9-b35c7f4119e3)
 ![Picture2](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/1fba211e-c9dc-45fa-80e1-a5e12c0d205d)
