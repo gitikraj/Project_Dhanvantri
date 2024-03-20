@@ -1,7 +1,8 @@
-# Project_Dhanvantri
-Dhanvantri is a cutting-edge health card system designed to revolutionize healthcare access and medical record management. This project aims to address the challenges faced by individuals in accessing quality healthcare services and maintaining their medical records efficiently. Key features include appointment scheduling, medical record digitization, health monitoring, and emergency assistance. Developed using MySQL, HTML/CSS/JavaScript, PHP, and mobile integration technologies, Dhanvantri significantly improves healthcare accessibility, efficiency, and user satisfaction.
-
+# PROJECT_DHANVANTRI👩‍⚕️
+Dhanvantri is a health card system designed to revolutionize healthcare access and medical record management. This project aims to address the challenges faced by individuals in accessing quality healthcare services and maintaining their medical records efficiently. Key features include appointment scheduling, medical record digitization, health monitoring, and emergency assistance. Developed using  HTML/CSS/JavaScript, Dhanvantri significantly improves healthcare accessibility, efficiency, and user satisfaction.
+# HOMEPAGE
 ![Picture4](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/2678fd08-da2b-451f-938f-45f6b6cf2575)
+# USER_DASHBOARD
 ![Picture3](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/8d43435b-8742-4fc1-a86f-7cefc6e3f110)
 
 ![Picture6](https://github.com/gitikraj/Project_Dhanvantri/assets/118770597/3aa9ee2a-c809-4daf-82cd-fe68a08a16e5)
